@@ -1,0 +1,5 @@
+Reviewed-Content-Hash: src/player/player.gd ad719fe86994c8c94f28a6d2123ccedd88fe4148
+Reviewed-Content-Hash: src/world/districts.gd 7be268440375d7536a6f0cbece90c0131b453a59
+Reviewed-Content-Hash: src/world/map.tscn e1da0393b940335b953d72ea9d734651e74c7b0b
+Reviewed-Content-Hash: assets/data/world_config.json dcc2054d59261ba0392175733c53459db99b7ca5
+Reviewed-Content-Hash: project.godot c6f30120afbfbc52a8dce57faa59a5a835ab3b78
