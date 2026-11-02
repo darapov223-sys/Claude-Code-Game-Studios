@@ -1,12 +1,12 @@
 # Story 001: Ходьба по карте
 
 > **Epic**: Оренafter
-> **Status**: Ready
+> **Status**: In Progress
 > **Layer**: Foundation
 > **Type**: Visual/Feel
 > **Estimate**: M
 > **Manifest Version**: N/A (minimal — no control manifest)
-> **Last Updated**: [set by /dev-story when implementation begins]
+> **Last Updated**: 2026-11-02
 
 ## Context
 
@@ -60,11 +60,10 @@
 ## Files
 
 - `src/player/player.gd`
-- `src/world/map.tscn`
 - `src/world/districts.gd`
+- `src/world/map.tscn`
 - `assets/data/world_config.json`
-
----
+- `project.godot` (run/main_scene)
 
 ## QA Test Cases
 

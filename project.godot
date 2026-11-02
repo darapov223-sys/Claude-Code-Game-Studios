@@ -1,11 +1,11 @@
 ; Engine configuration file.
-; Created by /setup-engine. run/main_scene is intentionally unset: set it once a
-; scene exists (/dev-story or the editor does this).
+; Created by /setup-engine. run/main_scene set by /dev-story (story 001).
 config_version=5
 
 [application]
 
 config/name="Оренafter"
+run/main_scene="res://src/world/map.tscn"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 
 [rendering]
